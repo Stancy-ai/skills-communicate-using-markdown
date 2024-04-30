@@ -9,3 +9,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Click on the link
+- [ ] Fill the form with required details
+- [ ] Provide the correct details
